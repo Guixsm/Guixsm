@@ -1,4 +1,4 @@
-## Hi there 👋
+Crie seu README de perfil do GitHub: crie um novo repositório público com o mesmo nome do seu usuário (ex: se seu usuário é joaosilva, crie um repo chamado joaosilva). Adicione um arquivo README.md com uma apresentação sua — quem você é, o que está estudando e seus interesses em tecnologia. Esse README aparece automaticamente no seu perfil público para qualquer pessoa no mundo.
 
 <!--
 **Guixsm/Guixsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
