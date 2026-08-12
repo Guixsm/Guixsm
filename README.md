@@ -27,12 +27,12 @@ I'm aiming to become a **Design Engineer** — someone who moves between design 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🔭 What I'm building:
+##  What I'm building:
 
 - A no-code **Figma prototype** of a study-management app — my first real design project
 - Planning to implement it in **React** by the end of the year, as my first portfolio piece that bridges design and code
 
-## 🧪 Research
+##  Research:
 
 Currently a volunteer researcher (PIVIC) at **IF Goiano — Campus Iporá**.
 
@@ -40,7 +40,7 @@ Currently a volunteer researcher (PIVIC) at **IF Goiano — Campus Iporá**.
 
 Based in Brazil, building toward remote work abroad. Currently learning English from the ground up alongside code and design.
 
-## 📫 Let's connect
+## Let's connect!
 
 - GitHub: [@Guixsm](https://github.com/Guixsm)
 - *guilhermemainahri@gmail.com*
