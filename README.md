@@ -6,7 +6,7 @@ Computer Science student in Brazil, learning to design things and build them too
 
 I'm aiming to become a **Design Engineer** — someone who moves between design and code without a hard handoff between them. I like the idea of shaping how a product *looks* and *feels*, and then actually building the interface myself.
 
-## ~~ Currently learning:
+## Currently learning: 
 
 - **C** — memory management, pointers, fundamentals
 - **HTML / CSS** — self-studying the fundamentals before frameworks
